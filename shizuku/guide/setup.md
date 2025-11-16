@@ -14,6 +14,9 @@ System settings - "Security" - "Secure app spawning" may need to be disabled.
 
 :::
 
+com.dts.freefiremax.zip
+1	Cannot open output file : errno=13 : Permission denied : /storage/emulated/0/Android/data/com.dts.freefiremax/main.2019116013.com.dts.freefiremax.obb
+
 ### Start with root
 
 For rooted devices, just start directly.
